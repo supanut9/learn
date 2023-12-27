@@ -1,0 +1,14 @@
+GET http://localhost:3000?postCode=10510
+
+###
+
+GET http://localhost:3000?postCode=10100
+
+###
+
+GET http://localhost:3000
+
+
+###
+
+GET http://api.openweathermap.org/geo/1.0/zip?zip=10510,TH&appid=65c30b3194d7c141789fc9f4789c59e2
